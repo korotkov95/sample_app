@@ -7,12 +7,10 @@ gem 'rails', '4.2.10'
 group :development, :test do
   gem 'sqlite3', '1.3.13'
   gem 'rspec-rails', '3.8.0'
-end
-
-group :test do
-  gem 'selenium-webdriver', '3.14.1'
   gem 'capybara', '3.9.0'
 end
+
+gem 'selenium-webdriver', '3.14.1'
 
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
