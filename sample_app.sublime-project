@@ -1,0 +1,15 @@
+{
+  "folders":
+  [
+    {
+      "follow_symlinks": true,
+      "path": ".",
+      "folder_exclude_patterns": ["tmp", ".idea", ".bundle", "node_modules"],
+      "file_exclude_patterns": [".secret"],
+    },
+    {
+      "name": "Gems",
+      "path": "~/.rvm/gems/ruby-2.5.1@sample_app/gems"
+    }
+  ]
+}
