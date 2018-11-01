@@ -1,1 +1,461 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sho",
+				"should_not"
+			],
+			[
+				"A",
+				"About"
+			],
+			[
+				"he",
+				"help_path"
+			],
+			[
+				"HAVE",
+				"have_title"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"apl",
+				"my_application"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "spec/helpers/application_helper_spec.rb",
+			"settings":
+			{
+				"buffer_size": 477,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/support/utilities.rb",
+			"settings":
+			{
+				"buffer_size": 78,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/models/user_spec.rb",
+			"settings":
+			{
+				"buffer_size": 576,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.rb",
+			"settings":
+			{
+				"buffer_size": 131,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"Rename File"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bla",
+				"Git: Blame"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"instpa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/korot77/work/rails_projects/sample_app",
+		"/home/korot77/work/rails_projects/sample_app/app",
+		"/home/korot77/work/rails_projects/sample_app/app/controllers",
+		"/home/korot77/work/rails_projects/sample_app/app/helpers",
+		"/home/korot77/work/rails_projects/sample_app/app/models",
+		"/home/korot77/work/rails_projects/sample_app/app/views",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts",
+		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages",
+		"/home/korot77/work/rails_projects/sample_app/app/views/users",
+		"/home/korot77/work/rails_projects/sample_app/config",
+		"/home/korot77/work/rails_projects/sample_app/spec",
+		"/home/korot77/work/rails_projects/sample_app/spec/helpers",
+		"/home/korot77/work/rails_projects/sample_app/spec/models",
+		"/home/korot77/work/rails_projects/sample_app/spec/requests",
+		"/home/korot77/work/rails_projects/sample_app/spec/support",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems"
+	],
+	"file_history":
+	[
+		"/home/korot77/work/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/home/korot77/work/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/korot77/work/rails_projects/sample_app/spec/support/utilities.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/config/routes.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/korot77/work/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/shared/_test.html",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/actionpack-4.2.10/lib/action_controller/base.rb",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/actionview-4.2.10/lib/action_view/layouts.rb",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/actionview-4.2.10/lib/action_view/helpers/capture_helper.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/controllers/application_controller.rb",
+		"/home/korot77/work/rails_projects/sample_app/Gemfile",
+		"/home/korot77/work/rails_projects/sample_app/config/application.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/static_pages.scss",
+		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/spec/rails_helper.rb",
+		"/home/korot77/work/rails_projects/sample_app/spec/spec_helper.rb",
+		"/home/korot77/work/rails_projects/sample_app/.versions.conf",
+		"/home/korot77/work/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/home/korot77/work/rails_projects/sample_app/README.rdoc",
+		"/home/korot77/work/rails_projects/sample_app/.gitignore",
+		"/home/korot77/work/rails_projects/sample_app/Gemlist",
+		"/home/korot77/work/rails_projects/demo_app/app/models/user.rb",
+		"/home/korot77/work/rails_projects/demo_app/app/models/micropost.rb",
+		"/home/korot77/work/rails_projects/demo_app/tmp/pids/server.pid",
+		"/home/korot77/work/rails_projects/first_app/.gitignore",
+		"/home/korot77/work/rails_projects/demo_app/Gemfile",
+		"/home/korot77/work/rails_projects/first_app/gitignore",
+		"/home/korot77/work/rails_projects/first_app/Gemfile",
+		"/home/korot77/work/rails_projects/first_app/README.md",
+		"/home/korot77/work/rails_tutorial/Gemfile",
+		"/home/korot77/work/rails_tutorial/.gitignore",
+		"/home/korot77/work/rails_projects/Gemfile",
+		"/home/korot77/work/rails_projects/gemfile",
+		"/home/korot77/work/rails_tutorial/config/database.yml",
+		"/home/korot77/work/rails_tutorial/app/helpers/application_helper.rb"
+	],
+	"find":
+	{
+		"height": 33.9130434783
+	},
+	"find_in_files":
+	{
+		"height": 113.565217391,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "spec/helpers/application_helper_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "spec/support/utilities.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "spec/models/user_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								570,
+								570
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/models/user.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.9130434783
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sample_app.sublime-project",
+	"replace":
+	{
+		"height": 62.6086956522
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"sample_app/config/routes.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
