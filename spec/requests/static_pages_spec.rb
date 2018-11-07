@@ -1,6 +1,4 @@
-require 'spec_helper'
 require 'rails_helper'
-require './spec/support/utilities.rb'
 
 describe "Static pages" do
   subject { page }

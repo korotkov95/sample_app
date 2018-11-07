@@ -1,5 +1,5 @@
-require 'spec_helper'
-require './app/helpers/application_helper.rb'
+require 'rails_helper'
+# require './app/helpers/application_helper.rb'
 
 describe ApplicationHelper do
 

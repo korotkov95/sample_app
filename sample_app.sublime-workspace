@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"gra",
+				"gravatar"
+			],
+			[
+				"gravata",
+				"gravatar_url"
+			],
+			[
+				"in",
+				"invalid"
+			],
+			[
+				"fin",
+				"find_by"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"use",
+				"user_with_same_email"
+			],
+			[
 				"sho",
 				"should_not"
 			],
@@ -40,38 +72,72 @@
 	"buffers":
 	[
 		{
+			"file": "app/views/users/show.html.erb",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/custom.css.scss",
+			"settings":
+			{
+				"buffer_size": 1949,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/users_helper.rb",
+			"settings":
+			{
+				"buffer_size": 318,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "spec/requests/static_pages_spec.rb",
+			"settings":
+			{
+				"buffer_size": 1479,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "spec/helpers/application_helper_spec.rb",
 			"settings":
 			{
-				"buffer_size": 477,
+				"buffer_size": 480,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "spec/support/utilities.rb",
+			"file": "spec/rails_helper.rb",
 			"settings":
 			{
-				"buffer_size": 78,
+				"buffer_size": 2934,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "spec/models/user_spec.rb",
+			"file": "config/routes.rb",
 			"settings":
 			{
-				"buffer_size": 576,
-				"encoding": "UTF-8",
+				"buffer_size": 1863,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "app/models/user.rb",
+			"file": "config/environment.rb",
 			"settings":
 			{
-				"buffer_size": 131,
-				"encoding": "UTF-8",
+				"buffer_size": 150,
 				"line_ending": "Unix"
 			}
 		}
@@ -147,7 +213,11 @@
 	[
 		"/home/korot77/work/rails_projects/sample_app",
 		"/home/korot77/work/rails_projects/sample_app/app",
+		"/home/korot77/work/rails_projects/sample_app/app/assets",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/javascripts",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets",
 		"/home/korot77/work/rails_projects/sample_app/app/controllers",
+		"/home/korot77/work/rails_projects/sample_app/app/controllers/concerns",
 		"/home/korot77/work/rails_projects/sample_app/app/helpers",
 		"/home/korot77/work/rails_projects/sample_app/app/models",
 		"/home/korot77/work/rails_projects/sample_app/app/views",
@@ -155,25 +225,42 @@
 		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages",
 		"/home/korot77/work/rails_projects/sample_app/app/views/users",
 		"/home/korot77/work/rails_projects/sample_app/config",
+		"/home/korot77/work/rails_projects/sample_app/config/environments",
+		"/home/korot77/work/rails_projects/sample_app/db",
 		"/home/korot77/work/rails_projects/sample_app/spec",
 		"/home/korot77/work/rails_projects/sample_app/spec/helpers",
 		"/home/korot77/work/rails_projects/sample_app/spec/models",
 		"/home/korot77/work/rails_projects/sample_app/spec/requests",
-		"/home/korot77/work/rails_projects/sample_app/spec/support",
-		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems"
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/rspec-rails-3.8.0",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/rspec-rails-3.8.0/lib",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/rspec-rails-3.8.0/lib/generators"
 	],
 	"file_history":
 	[
+		"/home/korot77/work/rails_projects/sample_app/config/database.yml",
+		"/home/korot77/work/rails_projects/sample_app/Gemfile",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/rspec-rails-3.8.0/lib/rspec-rails.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/users.scss",
+		"/home/korot77/work/rails_projects/sample_app/config/environments/test.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/spec/factories.rb",
 		"/home/korot77/work/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
-		"/home/korot77/work/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/home/korot77/work/rails_projects/sample_app/spec/models/user_spec.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/models/user.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/korot77/work/rails_projects/sample_app/config/routes.rb",
+		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/korot77/work/rails_projects/sample_app/spec/helpers/application_helper_spec.rb",
 		"/home/korot77/work/rails_projects/sample_app/spec/support/utilities.rb",
+		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/activemodel-4.2.10/lib/active_model/secure_password.rb",
+		"/home/korot77/work/rails_projects/sample_app/db/migrate/20181031171348_add_index_to_users_email.rb",
+		"/home/korot77/work/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_header.html.erb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/home.html.erb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/users/new.html.erb",
-		"/home/korot77/work/rails_projects/sample_app/config/routes.rb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
-		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/application.html.erb",
-		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
 		"/home/korot77/work/rails_projects/sample_app/app/helpers/application_helper.rb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/about.html.erb",
 		"/home/korot77/work/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
@@ -183,7 +270,6 @@
 		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/actionview-4.2.10/lib/action_view/layouts.rb",
 		"/home/korot77/.rvm/gems/ruby-2.5.1@sample_app/gems/actionview-4.2.10/lib/action_view/helpers/capture_helper.rb",
 		"/home/korot77/work/rails_projects/sample_app/app/controllers/application_controller.rb",
-		"/home/korot77/work/rails_projects/sample_app/Gemfile",
 		"/home/korot77/work/rails_projects/sample_app/config/application.rb",
 		"/home/korot77/work/rails_projects/sample_app/app/assets/stylesheets/static_pages.scss",
 		"/home/korot77/work/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
@@ -226,6 +312,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rspec",
+			"factory",
 			"class"
 		],
 		"highlight": true,
@@ -244,24 +332,113 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "spec/helpers/application_helper_spec.rb",
+					"file": "app/views/users/show.html.erb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 477,
+						"buffer_size": 206,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								477,
-								477
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/custom.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1896,
+								1896
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2380.86956522,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/helpers/users_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "spec/requests/static_pages_spec.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								676,
+								676
 							]
 						],
 						"settings":
@@ -275,30 +452,94 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "spec/support/utilities.rb",
+					"buffer": 4,
+					"file": "spec/helpers/application_helper_spec.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 78,
+						"buffer_size": 480,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								21,
+								21
 							]
 						],
 						"settings":
 						{
 							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "spec/rails_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/routes.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -308,20 +549,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "spec/models/user_spec.rb",
+					"buffer": 7,
+					"file": "config/environment.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 576,
+						"buffer_size": 150,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								570,
-								570
+								150,
+								150
 							]
 						],
 						"settings":
@@ -333,36 +574,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "app/models/user.rb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								89,
-								89
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
@@ -399,6 +611,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 152.695648193
+	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -420,6 +636,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"rou",
+				"sample_app/config/routes.rb"
+			],
+			[
+				"data",
+				"sample_app/config/database.yml"
+			],
+			[
+				"environment",
+				"sample_app/config/environment.rb"
+			],
+			[
+				"rails_helper",
+				"sample_app/spec/rails_helper.rb"
+			],
+			[
+				"rspec-rails",
+				"Gems/rspec-rails-3.8.0/lib/rspec-rails.rb"
+			],
+			[
+				"gem",
+				"sample_app/Gemfile"
+			],
+			[
+				"spec/helpers/application_helper_spec.rb",
+				"sample_app/spec/helpers/application_helper_spec.rb"
+			],
 			[
 				"route",
 				"sample_app/config/routes.rb"
